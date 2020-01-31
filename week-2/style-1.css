@@ -1,0 +1,76 @@
+.doc {
+    max-width:300px;
+    margin: auto;
+}
+
+   .content {
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 1px;
+}
+
+   .welcome {
+   font-family: input mono compressed, regular;
+   font-size: .9vw; 
+   text-align: center;
+}
+
+   .welcomecont {
+   font-family: input mono compressed, regular;
+   font-size: .9vw;   
+}
+
+   .order {
+   font-family: input mono narrow, regular;
+   font-size: 1.7vw;
+}
+
+   .register {
+   font-family: input mono compressed, regular;
+   font-size: .9vw;
+}
+
+   .sale {
+   font-family: input mono condensed, medium;
+   font-size: .9vw;
+   text-align: center;
+}
+
+   .item {
+   font-family: input mono compressed, regular;
+   font-size: .9vw; 
+    
+}
+
+   .cardnom {
+   font-family: input mono compressed, regular;
+   font-size: .9vw; 
+}
+
+   .starline1 {
+   font-family: input mono compressed, regular;
+   font-size: .9vw; 
+   text-align: center;  
+}
+
+   .visit{
+   font-family: input mono condensed, medium;
+   font-size: 1vw;
+   text-align: center;
+}
+
+   .offers {
+   font-family: input mono compressed, regular;
+   font-size: .9vw; 
+   text-align: center;  
+}
+
+.upper-right-box {
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+    position:absolute;
+    top:0;
+    right:0;
+}
