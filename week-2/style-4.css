@@ -1,0 +1,54 @@
+
+  .doc {
+       max-width: 300px;
+       margin: auto;
+  }
+  
+  
+  
+ 
+  /*<embed src="files/HMARTLOGO.pdf" type="application/pdf" width="100%" height="100px">*/
+  
+  .est {
+      font-family: t26-carbon, monospace;
+      font-size: .4vw;
+      font-style: normal;
+      letter-spacing: .5px;
+      line-height: 11px;
+  }
+  
+  .items {
+      font-family: t26-carbon, monospace;
+      font-size: .5vw;
+      font-style: normal;
+      letter-spacing: .5px;
+      line-height: 11px;
+  }
+  
+  .line {
+      font-family: t26-carbon, monospace;
+      font-size: .5vw;
+      font-style: normal;
+      letter-spacing: .5px;
+      line-height: 11px; 
+  }
+  
+  .debit{
+      font-family: t26-carbon, monospace;
+      font-size: .5vw;
+      font-style: normal;
+      letter-spacing: .5px;
+      line-height: 11px;
+  }
+
+  .center-box {
+    width: 200px;
+    height: 250px;
+    background-color: lightgray;
+    
+    padding: 10px;
+    margin: 280px auto;
+    
+    text-align: center;
+    overflow-y:scroll;
+}
