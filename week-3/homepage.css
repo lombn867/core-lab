@@ -2,7 +2,22 @@ html{
     overflow: hidden;
     margin: auto;
    cursor: crosshair;
+   animation: filter-animation 5s infinite;
 }
+
+@keyframes filter-animation{
+    0% {
+      -webkit-filter: grayscale(0) invert(2%);
+    }
+    
+    50% {
+      -webkit-filter: grayscale(1) invert(100%);
+    }
+    
+    100% {
+      -webkit-filter: grayscale(0) invert(2%);
+    }
+  }
 
 img {
     width:100%; 
