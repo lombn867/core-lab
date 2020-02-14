@@ -1,0 +1,80 @@
+html{
+    overflow: hidden;
+    margin: auto;
+   cursor: crosshair;
+}
+
+img {
+    width:100%; 
+    height:auto;
+}
+.bee{
+    width:100%; 
+    height:auto;
+    max-width: 70vw;
+  background-size: contain;
+  background-position: center top;
+  background-repeat: no-repeat;
+  position:absolute;
+  top: 10%;
+  left: 54%;
+  transform: rotate(-15deg);
+}
+
+#head {
+    text-align: center;
+    top:40%;
+    padding: 20px;
+    margin: auto;
+    font-family: campaign, sans-serif;
+    font-weight: 500;
+    font-size: 4vw;
+    font-style: normal;
+    
+}
+
+#name {
+    font-family: interstate-mono, monospace;
+    font-weight: 400;
+    font-size: .7vw;
+    font-style: normal;
+    letter-spacing: 4px;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+    top: 13%;
+    
+    
+}
+
+
+
+#name:hover + #about{
+    visibility:visible;
+    transition: ease 1.55s;
+}
+
+
+
+#about{
+    width: 300px;
+    border:1px solid black;
+    background-color: whitesmoke;
+    padding: 10vw;
+    margin: 1vw;
+    letter-spacing: 2px;
+    font-family: interstate-mono, monospace;
+    font-weight: 400;
+    font-size: .6vw;
+    font-style: normal;
+    text-align: justify;
+    padding: 8vw;
+    margin: 6vw;
+    position: absolute;
+    left:45%;
+    visibility: hidden;
+}
+ #contact {
+     text-align: center;
+ }
+
