@@ -33,6 +33,10 @@ img {
     
 }
 
+#head:hover {
+    text-shadow: 2px 2px 5px #FFD419;
+}
+
 #name {
     font-family: interstate-mono, monospace;
     font-weight: 400;
@@ -42,19 +46,12 @@ img {
     text-align: center;
     padding: 0;
     margin: auto;
-    top: 13%;
-    
-    
+    top: 13%;   
 }
-
-
-
 #name:hover + #about{
     visibility:visible;
     transition: ease 1.55s;
 }
-
-
 
 #about{
     width: 300px;
@@ -65,15 +62,16 @@ img {
     letter-spacing: 2px;
     font-family: interstate-mono, monospace;
     font-weight: 400;
-    font-size: .6vw;
+    font-size: .8vw;
     font-style: normal;
     text-align: justify;
     padding: 8vw;
     margin: 6vw;
     position: absolute;
-    left:45%;
+    right:50%;
     visibility: hidden;
 }
+
  #contact {
      text-align: center;
  }
