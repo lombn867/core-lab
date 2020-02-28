@@ -1,0 +1,208 @@
+/*html{
+    text-align: center;
+}*/
+
+.self-portrait{
+    width: 295px;
+    height: auto;
+    background-size: cover;
+    position:absolute;
+    padding-left:150px;
+}
+
+.fullname {
+    width:302.27px;
+    height:auto;
+    position: absolute;
+    padding-left:442px;
+    padding-top:100px;
+}
+
+.nicknames {
+    width:284.4px;
+    height:auto;
+    position:absolute;
+    top:80;
+    padding-left:742px;
+    padding-top:100px;
+}
+
+.hobbies{
+    width:352.64px;
+    height: auto;
+    position:absolute;
+    padding-left:442px;
+    padding-top:239px;
+    top:0;
+}
+
+.placeborn{
+    width:235.25px;
+    height: auto;
+    position:absolute;
+    padding-left:680px;
+    padding-top:239px;
+    top:0;
+}
+
+.birthday{
+    width:235.25px;
+    position:absolute;
+    padding-top:307px;
+    padding-left:618px;
+    top:0;
+}
+
+.myfamily{
+    width:242.5px;
+    height: auto;
+    position: absolute;
+	padding-left:784px;
+	padding-top:320px;
+}
+
+.lived{
+    width: 545.71px;
+    height: auto;
+    position: absolute;
+    padding-left:485px;
+	padding-top:458px;
+}
+
+.person{
+    width: 248.94px;
+    height: auto;
+    position: absolute;
+    padding-left:491px;
+	padding-top:458px; 
+}
+
+.accomplishment {
+    width: 350.88px;
+    height: auto;
+    position: absolute;
+    padding-left:144px;
+	padding-top:458px;
+}
+
+.never{
+    width: 132.63px;
+    height: auto;
+    position: absolute;
+    padding-left:148px;
+	padding-top:458px;
+}
+
+.pasttime{
+    width: 221.25px;
+    height: auto;
+    position: absolute;
+    padding-left:278px;
+	padding-top:587px;
+}
+
+.pets{
+    width: 267.01px;
+    height: auto;
+    position: absolute;
+    padding-left:492px;
+	padding-top:578px;
+}
+
+.recent{
+    width: 352.54px;
+    height: auto;
+    position: absolute;
+    padding-left:145px;
+	padding-top:804px;
+}
+
+.teacher{
+    width: 175.87px;
+    height: auto;
+    position: absolute;
+    padding-left:148px;
+	padding-top:804px;  
+}
+
+.childhood{
+    width: 438.41px;
+    height: auto;
+    position: absolute;
+    padding-left:320px;
+	padding-top:804px; 
+}
+
+.tv{
+    width: 274.15px;
+    height: auto;
+    position: absolute;
+    padding-left:488px;
+	padding-top:656px; 
+}
+
+.music{
+    width: 193.85px;
+    height: auto;
+    position: absolute;
+    padding-left: 567px;
+	padding-top: 578px;  
+}
+
+.food{
+    width: 193.96px;
+    height: auto;
+    position: absolute;
+    padding-left: 758px;
+	padding-top: 578px; 
+}
+
+.subject{
+    width: 274.15px;
+    height: auto;
+    position: absolute;
+    padding-left: 755px;
+	padding-top: 656px; 
+}
+
+.movie{
+    width: 274.15px;
+    height: auto;
+    position: absolute;
+    padding-left: 755px;
+	padding-top: 847px;
+}
+
+.colour {
+    width: 193.85px;
+    height: auto;
+    position: absolute;
+    padding-left: 757px;
+	padding-top: 846px;
+}
+
+.sport{
+    width: 193.96px;
+    height: auto;
+    position: absolute;
+    padding-left: 566px;
+	padding-top: 846px;
+}
+
+.book{
+    width: 274.15px;
+    height: auto;
+    position: absolute;
+    padding-left: 488px;
+	padding-top: 848px;
+}
+
+#canvas{
+    max-width: 50%;
+    height: auto;
+    background-size: cover;
+    position:absolute;
+    top:11px;
+    padding-left:138px; 
+}
+
